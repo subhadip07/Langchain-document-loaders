@@ -1,0 +1,20 @@
+# LangChain Core
+langchain
+langchain-core
+ipykernel
+langchain-community
+
+groq
+langchain-groq
+
+pydantic
+pydantic[email]
+grandalf
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface_hub
+
+# Environment Variable Management
+python-dotenv
