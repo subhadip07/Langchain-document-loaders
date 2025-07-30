@@ -10,6 +10,7 @@ langchain-groq
 pydantic
 pydantic[email]
 grandalf
+pypdf
 
 # Hugging Face Integration
 langchain-huggingface
