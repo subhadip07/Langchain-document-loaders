@@ -11,6 +11,7 @@ pydantic
 pydantic[email]
 grandalf
 pypdf
+beautifulsoup4
 
 # Hugging Face Integration
 langchain-huggingface
